@@ -8,7 +8,7 @@ int main()
     int lower, upper, step;
 
     lower = 0;      /* lower limit of temperature table */
-    upper = 300;    /* upper limit */
+    upper = 600;    /* upper limit */
     step = 20;      /* step size */      
 
     fahr = lower;
@@ -19,3 +19,4 @@ int main()
         fahr = fahr + step;
     }       
 }
+
