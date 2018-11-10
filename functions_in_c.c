@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// find the max of four integers.
 int max_of_four(int a, int b, int c, int d);
 
 int max_of_four(int a, int b, int c, int d) {
